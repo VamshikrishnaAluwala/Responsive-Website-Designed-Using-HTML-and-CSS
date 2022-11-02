@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+    height: auto;
+
+
+}
+
+
+ul li a{
+
+    background-color: rgb(23, 20, 20);
+    color:#fff;
+    display: block;
+    text-decoration: none;
+    cursor: pointer;
+    
+    text-align: center;
+}
